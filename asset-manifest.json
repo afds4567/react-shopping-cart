@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-shopping-cart/static/css/main.70d5c240.css",
-    "main.js": "/react-shopping-cart/static/js/main.a49740af.js",
+    "main.js": "/react-shopping-cart/static/js/main.6b09a269.js",
     "static/media/noto-sans-kr-all-400-normal.woff": "/react-shopping-cart/static/media/noto-sans-kr-all-400-normal.77288f80e43f7e99366e.woff",
     "static/media/noto-sans-kr-65-400-normal.woff2": "/react-shopping-cart/static/media/noto-sans-kr-65-400-normal.7c65ef32467d40c2a11a.woff2",
     "static/media/noto-sans-kr-71-400-normal.woff2": "/react-shopping-cart/static/media/noto-sans-kr-71-400-normal.2f224e9a5f7781a3c866.woff2",
@@ -129,10 +129,10 @@
     "static/media/arrow-up.svg": "/react-shopping-cart/static/media/arrow-up.3347b82a5681dabdcbf567b3d9fa3acc.svg",
     "static/media/arrow-down.svg": "/react-shopping-cart/static/media/arrow-down.70768d744528fa56ddfc0688242a6c97.svg",
     "main.70d5c240.css.map": "/react-shopping-cart/static/css/main.70d5c240.css.map",
-    "main.a49740af.js.map": "/react-shopping-cart/static/js/main.a49740af.js.map"
+    "main.6b09a269.js.map": "/react-shopping-cart/static/js/main.6b09a269.js.map"
   },
   "entrypoints": [
     "static/css/main.70d5c240.css",
-    "static/js/main.a49740af.js"
+    "static/js/main.6b09a269.js"
   ]
 }
