@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-shopping-cart/static/css/main.70d5c240.css",
-    "main.js": "/react-shopping-cart/static/js/main.6b09a269.js",
+    "main.js": "/react-shopping-cart/static/js/main.ceb644a6.js",
     "static/media/noto-sans-kr-all-400-normal.woff": "/react-shopping-cart/static/media/noto-sans-kr-all-400-normal.77288f80e43f7e99366e.woff",
     "static/media/noto-sans-kr-65-400-normal.woff2": "/react-shopping-cart/static/media/noto-sans-kr-65-400-normal.7c65ef32467d40c2a11a.woff2",
     "static/media/noto-sans-kr-71-400-normal.woff2": "/react-shopping-cart/static/media/noto-sans-kr-71-400-normal.2f224e9a5f7781a3c866.woff2",
@@ -125,14 +125,15 @@
     "static/media/noto-sans-kr-98-400-normal.woff2": "/react-shopping-cart/static/media/noto-sans-kr-98-400-normal.8b6da501cfddeb84da12.woff2",
     "static/media/cart.svg": "/react-shopping-cart/static/media/cart.9fa92ae3af8352855e7e8d01fcf7cfce.svg",
     "static/media/home-icon.svg": "/react-shopping-cart/static/media/home-icon.050edc0f52de951296380b2c4f5ee342.svg",
+    "static/media/trash.svg": "/react-shopping-cart/static/media/trash.cdfa98e9e798d3393825ae7ac4646706.svg",
     "index.html": "/react-shopping-cart/index.html",
     "static/media/arrow-up.svg": "/react-shopping-cart/static/media/arrow-up.3347b82a5681dabdcbf567b3d9fa3acc.svg",
     "static/media/arrow-down.svg": "/react-shopping-cart/static/media/arrow-down.70768d744528fa56ddfc0688242a6c97.svg",
     "main.70d5c240.css.map": "/react-shopping-cart/static/css/main.70d5c240.css.map",
-    "main.6b09a269.js.map": "/react-shopping-cart/static/js/main.6b09a269.js.map"
+    "main.ceb644a6.js.map": "/react-shopping-cart/static/js/main.ceb644a6.js.map"
   },
   "entrypoints": [
     "static/css/main.70d5c240.css",
-    "static/js/main.6b09a269.js"
+    "static/js/main.ceb644a6.js"
   ]
 }
